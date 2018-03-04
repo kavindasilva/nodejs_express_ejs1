@@ -1,0 +1,6 @@
+
+coding done using pure html tags
+
+//get method
+app.get( path, request, response)
+app.get( path, controller.function , controller.function)
